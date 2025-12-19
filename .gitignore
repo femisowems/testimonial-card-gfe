@@ -136,3 +136,5 @@ dist
 
 # Prevent Figma files from being tracked by Git.
 *.fig
+
+SUBMISSION_HELPER.md
